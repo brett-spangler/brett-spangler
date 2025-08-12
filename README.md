@@ -22,6 +22,11 @@ I thrive in roles where I can learn fast, solve complex problems, and deliver cl
 
 ## 📁 Featured Projects
 
+- **resume_pdfkit**  
+  CLI-driven resume generator using Python, Jinja2, and pdfkit.  
+  Supports dynamic contact injection, versioned templates, and clean HTML-to-PDF output.  
+  → [View Repo](https://github.com/brett-spangler/resume_pdfkit)
+
 - **FullStack Open Exercises**  
   Hands-on full-stack development with React, Node.js, and MongoDB  
   → [View Repo](https://github.com/brett-spangler/FullStackOpen)
